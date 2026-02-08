@@ -1,3 +1,6 @@
 ollama
 streamlit
 google-generativeai
+fpdf
+gtts
+io
